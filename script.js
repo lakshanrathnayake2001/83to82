@@ -115,8 +115,8 @@ if (bgContainer) {
   bgImage2.className = 'absolute inset-0 bg-cover bg-center transition-opacity duration-1000 ease-in-out opacity-0 z-0';
   
   // Set your Facebook image URLs
-  bgImage1.style.backgroundImage = "url('https://i.ibb.co/S4pCZ64x/470811574-122102167610659598-5425146254650307480-n.jpg')";
-  bgImage2.style.backgroundImage = "url('https://i.ibb.co/FLDTMLbP/471151805-122102167262659598-1827396236113203600-n.jpg')";
+  bgImage1.style.backgroundImage = "url('https://drive.google.com/uc?export=view&id=1RERTVpe_OysyC7N7gYj6qFL-7W4G0VP5')";
+  bgImage2.style.backgroundImage = "url('https://drive.google.com/uc?export=view&id=1vtBs-WrnLqELaAJKHI_qkOVrOl_knBDT')";
   
   // Preload images to avoid flickering
   const preloadImage = (url) => {
