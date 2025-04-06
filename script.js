@@ -115,8 +115,8 @@ if (bgContainer) {
   bgImage2.className = 'absolute inset-0 bg-cover bg-center transition-opacity duration-1000 ease-in-out opacity-0 z-0';
   
   // Set your Facebook image URLs
-  bgImage1.style.backgroundImage = "url('https://scontent-bom1-1.xx.fbcdn.net/v/t39.30808-6/470811574_122102167610659598_5425146254650307480_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeEzdli0XX-yynyNQxzSlBw_X4GOw36Pn9FfgY7Dfo-f0f7xa1DpgXqaloGSaT3l2VtIkBlUEL22zL0eu8ZYlsRG&_nc_ohc=h-aHgzQJEXAQ7kNvgHOi6nL&_nc_oc=Adma0eoNjkWtbKRNDT66GdDEz683200VtKbOPJuvjw1gohXzcCazmfkGr-fVIHTa104&_nc_zt=23&_nc_ht=scontent-bom1-1.xx&_nc_gid=W57zLGHoLM_zVkf34-c5YQ&oh=00_AYHwUcscOIQW_uLOhciInBTxymvQUSS4o76yOSZckygXwg&oe=67F05979')";
-  bgImage2.style.backgroundImage = "url('https://scontent-bom2-3.xx.fbcdn.net/v/t39.30808-6/471151805_122102167262659598_1827396236113203600_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeFsvno0lixBCnmNe_RyofA3Av2rn94DogAC_auf3gOiAHNzYgdfjVoQXuj5mdi2-_4v4BP32sDm0q1EPdCHecZ8&_nc_ohc=_V5VD7uIhzEQ7kNvgFg3ap3&_nc_oc=AdkepnGb6SXSoUhrzvx2FPaTCLqFLji2iNy80aR0y-dV_GRT-Kq0WfBjayG82NkBfoc&_nc_zt=23&_nc_ht=scontent-bom2-3.xx&_nc_gid=K34D5d78G44Ur_xjHVs-Sw&oh=00_AYEvhAv415wCCAIwjzG7cDytIsdgLKad4OyLG7zh6bQkmQ&oe=67F05157')";
+  bgImage1.style.backgroundImage = "url('https://i.ibb.co/S4pCZ64x/470811574-122102167610659598-5425146254650307480-n.jpg')";
+  bgImage2.style.backgroundImage = "url('https://i.ibb.co/FLDTMLbP/471151805-122102167262659598-1827396236113203600-n.jpg')";
   
   // Preload images to avoid flickering
   const preloadImage = (url) => {
